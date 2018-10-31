@@ -12,6 +12,7 @@
 <body>
   <script src="js/scripts.js"></script>
 <?php
+	echo "New update for commit in git_hub";
 	echo "Privet ot Denisa<br/><hr>";
 	echo php.info;
 ?>
